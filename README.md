@@ -1,5 +1,5 @@
-<h1 align="center">👋 Md. Riadul Islam</h1>
-<h3 align="center">I am a full-stack Software Engineer</h3>
+<h1>👋 Md. Riadul Islam</h1>
+<h3>I am a full-stack Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdhawladar&label=Profile%20views&color=0e75b6&style=flat" alt="rdhawladar" /> </p>
 
