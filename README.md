@@ -1,7 +1,7 @@
 <h1>👋 Md. Riadul Islam</h1>
 <h3>I am a full-stack Software Engineer</h3>
 
-- 📫 Reach me at **rdhawladar@gmail.com**
+📫 Reach me at **rdhawladar@gmail.com**
 
 <h4>About</h4>
 <p>I am a full-stack Software Engineer with 7+ years of experience. I have expertise on PHP, Laravel, Symfony, CodeIgniter, JavaScript, JQuery, Vuejs,  Reactjs, NodeJS, Bootstrap, REST API, OAuth2, JWT, MySQL, PostgreSQL, MongoDB, HTML5, CSS3 etc. Also have experience on working with AWS, Docker, CI/CD pipeline. Developed various types of Software for international brands of USA, Japan, Finland. I have got opportunities to work with some global brands like Source Next, Pocket Talk etc through BJIT LTD. </p>
